@@ -7,7 +7,9 @@ I'm particularly interested in automation and simple compilers. Most of what I d
 
 [![H2H](https://github-readme-stats.vercel.app/api/pin/?username=mullinmax&repo=H2H)](https://github.com/mullinmax/H2H)
 
- 
+
+# GitHub Stats
+
 <a href="https://github.com/mullinmax">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullinmax&langs_count=10&layout=compact&theme=light&hide_langs_below=1" />
 </a>
