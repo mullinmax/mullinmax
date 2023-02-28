@@ -1,11 +1,11 @@
 # Who am I?
-I'm a hobbyist and a tinkerer. I do lots of small projects; in mostly python to realx after my Day job is at [Tenneco](https://www.tenneco.com/) where I am an Azure Data Developer. 
+I'm a hobbyist and a tinkerer. I do lots of small projects; in mostly python to realx after my Day job is at [84.51°](https://www.8451.com/) where I am a Data Engineer.
 Sometimes I get an idea about a novel way to do something that isn't relevant enough to my job to spend time on. Mostly those ideas end up in a repository here. 
 
-I'm particularly interested in automation and simple compilers. Most of what I do is playing with ideas around playing with data with one or both of those. As of writing this I'm most focused on H2H (ping me with a better name please) 
+I'm particularly interested in automation, LLMs, and simple compilers. Most of what I do is playing with ideas around playing with data with one of those areas. As of writing this I'm most focused on Pluvial which is a markdown based static site generator. (because the world needs more of those)
 
 
-[![H2H](https://github-readme-stats.vercel.app/api/pin/?username=mullinmax&repo=H2H)](https://github.com/mullinmax/H2H)
+[![Pluvial](https://github-readme-stats.vercel.app/api/pin/?username=mullinmax&repo=pluvial)](https://github.com/mullinmax/pluvial)
 
 
 # GitHub Stats
