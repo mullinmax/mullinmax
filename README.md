@@ -4,7 +4,7 @@ By night I develop self-hostable applications and scripts to help me maintain th
 Sometimes I get an idea about a novel way to do something that isn't relevant enough to my job to spend time on. Mostly those ideas end up in a repository here. 
 I'm particularly interested in automation, LLMs, and simple compilers but my code ranges all over.
 
-Check out [my blog](blog.doze.dev) to see what I'm currently thinking about.
+Check out [my blog](https://blog.doze.dev) to see what I'm currently thinking about.
 
 [![Flip-Flop](https://github-readme-stats.vercel.app/api/pin/?username=mullinmax&repo=flip-flop)](https://github.com/mullinmax/flip-flop)
 
