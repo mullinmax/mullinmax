@@ -7,8 +7,6 @@ I'm particularly interested in automation, LLMs, and simple compilers but my cod
 Check out [my blog](https://blog.doze.dev) to see what I'm currently thinking about.
 
 [![Flip-Flop](https://github-readme-stats.vercel.app/api/pin/?username=mullinmax&repo=flip-flop)](https://github.com/mullinmax/flip-flop)
-
-
 [![Blinder](https://github-readme-stats.vercel.app/api/pin/?username=mullinmax&repo=blinder)](https://github.com/mullinmax/blinder)
 
 
