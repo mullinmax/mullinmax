@@ -8,7 +8,7 @@ Check out [my blog](https://blog.doze.dev) to see what I'm currently thinking ab
 
 [![Flip-Flop](https://github-readme-stats.vercel.app/api/pin/?username=mullinmax&repo=flip-flop)](https://github.com/mullinmax/flip-flop)
 [![Blinder](https://github-readme-stats.vercel.app/api/pin/?username=mullinmax&repo=blinder)](https://github.com/mullinmax/blinder)
-
+[![Musical-Code](https://github-readme-stats.vercel.app/api/pin/?username=mullinmax&repo=musical-code)](https://github.com/mullinmax/musical-code)
 
 # GitHub Stats
 
