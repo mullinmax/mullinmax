@@ -1,18 +1,12 @@
 # 👋 Hey there! I'm Maxwell
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-
-
 I'm a **Data Engineer** with a strong background in **Python, SQL, and cloud infrastructure**. When I'm not working with big data, you'll find me experimenting with:
 🕹️ Embedded systems programming for pinball machines
 🌍 Self-hostable web apps & backend engineering
 🧠 Leveraging LLMs for practical (and silly) applications
 🎭 Hacky toy projects & creative ideas
 
-🚀 I'm currently **looking for a new role**! If you think I'd be a great fit for your team, feel free to reach out on [LinkedIn](www.linkedin.com/in/maxwell-mullin-413070b4).
+🚀 I'm currently **looking for a new role**! If you think I'd be a great fit for your team, reach out on [LinkedIn](www.linkedin.com/in/maxwell-mullin-413070b4).
 
 
 # ⚡ Tech Stack
